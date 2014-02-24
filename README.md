@@ -43,10 +43,14 @@ FAQ
 * Чи вийде?
 > в Ісландії вийшло, ми не гірші
 
+* Невже ніхто до цього часу нічого подібного ще не зробив?
+> Зробив, [Андрій Козлов](https://www.facebook.com/andriyko) з колегами написав гарний план змін http://bit.ly/Zminy2013, який на жаль прочитало і зрозуміло замало людей. Використаємо його як базу для подальшої роботи. Раджу ознайомитись.
+
+
 
 ЯК ДОПОМОГТИ?
 ------------
-Є ідеї - відкривайте issues та шліть pull-request’и
+Є ідеї - відкривайте нові [issues](https://github.com/planzmin/planzmin.github.io/issues) [fork'айте](https://github.com/planzmin/planzmin.github.io/fork) та шліть pull-request’и
 
 
 
