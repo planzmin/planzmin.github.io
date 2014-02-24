@@ -50,7 +50,7 @@ FAQ
 
 ЯК ДОПОМОГТИ?
 ------------
-Є ідеї - відкривайте нові [issues](https://github.com/planzmin/planzmin.github.io/issues) [fork'айте](https://github.com/planzmin/planzmin.github.io/fork) та шліть pull-request’и
+Є ідеї - відкривайте нові [issues](https://github.com/planzmin/planzmin.github.io/issues), [fork'айте](https://github.com/planzmin/planzmin.github.io/fork) та шліть pull-request’и
 
 
 
